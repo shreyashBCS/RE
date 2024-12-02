@@ -1,0 +1,34 @@
+/* STYLE  FOR NAVBAR HOME PRICING ETC(INCREASING IT WILL SHIFT IT MORE TO RIGHT) */
+.custom-margin {
+  margin-left: 25rem;
+  /* Adjust this value for more space */
+}
+
+/* NAVBAR */
+.custom-navbar {
+  background-color: #e0e2e4 !important;
+  /* Use !important to override Bootstrap defaults */
+}
+
+/* button in navbar */
+.rounded-button {
+  border-radius: 25px;
+  /* Adjust this value for desired roundness */
+}
+
+/* MAIN SECTION IMAGE */
+/* styles.css */
+.curved-image {
+  border-top-left-radius: 400px;
+  /* Adjust this value for desired roundness */
+  border-top-right-radius: 400px;
+  /* Adjust this value for desired roundness */
+}
+/* margin for about section circualr images */
+.custom-margin2 {
+  margin-left: 400px; /* Adjust this value as needed */
+}
+.custom-margin3{
+  margin-left: 250px; /* Adjust this value as needed */
+
+}

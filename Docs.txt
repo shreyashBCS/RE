@@ -1,0 +1,2 @@
+ Component Folder = to add all Component like Navbar,Footer
+ Asset Folder = to add all Images 
